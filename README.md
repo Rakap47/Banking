@@ -4,7 +4,7 @@ A simple banking application developed with Python's Tkinter for GUI and SQLite 
 
 # 🔥 Features
 
-##💻User Registration: 
+💻User Registration: 
 
 Allows new users to register with details such as passport code & name, date of birth, and password.
 User Login: Existing users can login using their passport code and password.
