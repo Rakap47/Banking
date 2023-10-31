@@ -32,12 +32,13 @@ Run the Application:
 python main.py
 ```
 # 🍔 Usage
-Registration:
+## 🔑 Registration:
 
 Launch the app.
 Click on the 'Register' button.
 Fill in the required details and register.
-Login:
+
+## 🔍 Login:
 
 Use the passport code and password set during registration to log in.
 Transfer Money:
@@ -62,6 +63,4 @@ Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 License
-This project is licensed under the MIT License.
-
-Make sure to replace YOUR_USERNAME with your actual GitHub username. Also, you might need to adjust the repository URL, file names, or any other specifics based on your project's structure and naming conventions.
+This project is licensed under the Michigan University License.
