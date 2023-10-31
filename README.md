@@ -14,7 +14,7 @@ Clone the Repository:
 
 ```bash
 git clone https://github.com/Rakap47/Banking
-cd banking-app
+cd rakapbanking.py
 ```
 
 Install Dependencies:
