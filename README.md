@@ -41,29 +41,29 @@ Launch the app.
 Click on the 'Register' button.
 Fill in the required details and register.
 
-## 🔍 Login:
+🔍 Login:
 
 Use the passport code and password set during registration to log in.
 
-## 🔢Transfer Money:
+🔢Transfer Money:
 
 Click on the 'Transfer' button.
 Provide the recipient's sort code and account number.
 Specify the amount and confirm.
 
-## 🔢Withdraw Money:
+🔢Withdraw Money:
 
 Click on the 'Withdraw' button.
 Specify the amount you wish to withdraw.
 Note down the generated 8-digit code for reference at the ATM.
 
-## 🔢Deposit Money:
+🔢Deposit Money:
 
 Click on the 'Deposit' button.
 Specify the amount you wish to deposit.
 Use the generated 8-digit code at the ATM to complete the deposit.
 
-## 🔢View Statements:
+🔢View Statements:
 
 Click on the 'Statements' button to view your account statements.
 Contributing
