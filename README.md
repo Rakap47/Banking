@@ -3,7 +3,10 @@ Banking App with Tkinter
 A simple banking application developed with Python's Tkinter for GUI and SQLite for the database.
 
 # 🔥 Features
-User Registration: Allows new users to register with details such as passport code & name, date of birth, and password.
+
+## 💻User Registration: 
+
+Allows new users to register with details such as passport code & name, date of birth, and password.
 User Login: Existing users can login using their passport code and password.
 Account Overview: Once logged in, users can view their debit card details, balance, sort code, and account number.
 Money Transfer: Users can transfer money to other accounts using sort code and account number.
