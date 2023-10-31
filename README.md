@@ -10,7 +10,8 @@ Money Transfer: Users can transfer money to other accounts using sort code and a
 Withdraw Money: Users can specify an amount to withdraw. Upon confirmation, an 8-digit code is generated for reference.
 Deposit Money: Users can deposit money by specifying an amount. They'll then receive an 8-digit code, which they can use at an ATM to complete the deposit.
 Statements: Users can view random stored statements from their account.
-Installation & Setup
+
+# 🏗️ How to Set up
 Clone the Repository:
 
 ```bash
