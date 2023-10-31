@@ -2,6 +2,8 @@ Banking App with Tkinter
 
 A simple banking application developed with Python's Tkinter for GUI and SQLite for the database.
 
+Download: [here](https://github.com/Rakap47/Banking/releases/Rakap-Banking-v0.1)
+
 # 🔥 Features
 
 💻User Registration: 
