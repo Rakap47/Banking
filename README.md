@@ -31,7 +31,7 @@ Run the Application:
 ```bash
 python main.py
 ```
-Usage
+# 🍔 Usage
 Registration:
 
 Launch the app.
