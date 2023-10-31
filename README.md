@@ -18,7 +18,7 @@ Statements: Users can view random stored statements from their account.
 Clone the Repository:
 
 ```bash
-git clone https://github.com/Rakap47/Banking
+git clone github.com/Rakap47/Banking
 
 cd rakapbanking.py
 ```
