@@ -35,7 +35,7 @@ Run the Application:
 python main.py
 ```
 # 🍔 Usage
-## 🔑 Registration:
+🔑 Registration:
 
 Launch the app.
 Click on the 'Register' button.
